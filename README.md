@@ -10,7 +10,7 @@ This repository features an interactive dashboard created using mock data to dem
 2. Interactive Filters: Explore data through slicers and filters for dynamic insights.
 3. Custom Visualizations: Includes bar charts, line graphs, and KPI cards to present data effectively.
    
-**How to Use**
+**How to Use**:
 Download the .pbix file:
 Click on the file in the repository to download it to your local machine.
 Open in Power BI Desktop:
